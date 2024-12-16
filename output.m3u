@@ -1,9 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="" group-title="General;News",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://static.kbs.co.kr/contents/20241119135609/resources/vod/img/ch/img-kbs1-logo.png" group-title="General;News",KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1734500121&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQ1MDAxMjF9fX1dfQ__&Signature=dedglQ00wEPEMQUWrefV5-AtH~wIWv5SANzNjjEBnWALPTffwam5pATF00le~RjoWq2BitqDnZP2vLkttbhjcrrq6SW5f9smDBu0V1g~4m-7CDA7kjSfEGa~M0FqqDXBwDAdT5KiwZZEia7zKVeipM0Q021BhzV2SsIYAqyRo0hqZeieH4WL20D63-hrPnsGXUQ-BVzPTSrnof1KX4ZSLjNPDw6zQLKSWIxgbfs5x2N2cgqmpK1OwpMPGUTLxGhipUz7l6PdLB7TWVBGyknTCK9lIc3h-anajcqETPxb2YV60gglrxUynm~uPhcIEGoddi8UvKJyDqvzfvqhmRZBiA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
-#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="" group-title="General;News",KBS2
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://static.kbs.co.kr/contents/20241119135609/resources/vod/img/ch/img-kbs2-logo.png" group-title="General;News",KBS2
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1734500302&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQ1MDAzMDJ9fX1dfQ__&Signature=ITDCxUYFYaqYCAydHYoH5Lt4BY9XocYQ7kBvhjDVsviNktxuXbb-TzVpk5VmVSxBddamHvu7tagdJ5Ur1bJZSjhOLN468et33JoAZbfZSDAMr5otXCPC1np25kY9UEcP5n3kMxRlEkG~UUqmHX4G5PBSaapbMWIYYKpOoKua4sLHKmvU0x1V1BNidcwTdYc0g7Hf25X2Rui3x78LX~JDxr7-U5l7einRu1KgB0v173f2gnMnYwj3fO7Haat~pm67KZNLg4RkLp21fhChlJOnbo-KNNI3sx~TRVYBlNJU4P3HieeEiH44dz~6s367ucHOSEehozJAZcGSk9OastBtLA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="General",MBC
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1_B862A42B.m3u8
+
+#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png" group-title="General",SBS
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_2_76142D8F.m3u8
+
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://nstatic.jtbc.co.kr/inc/images/ci.png" group-title="General",JTBC
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
 
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Entertainment",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
@@ -20,19 +29,10 @@ http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Entertainment",KBS Story (480p)
 http://mytv.dothome.co.kr/ch/catv/4.php
 
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1_B862A42B.m3u8
-
-#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_2_76142D8F.m3u8
-
-#EXTINF:-1 tvg-id="JTBC" tvg-logo="" group-title="General",JTBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
-
-#EXTINF:-1 tvg-id="MBCevery1.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC every1
+#EXTINF:-1 tvg-id="MBCevery1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/MBC_Every_1_logo.png" group-title="General",MBC every1
 https://m-every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6681D51F63993194164DE5F63E517345250B34D5C005E24A37D07Aa546F837167Ea833543EB22C4B300A368145bF71483D98A0FD139C87A2B69590CF63AEEC45D3BE1A889FF5D6B7C7191F245964B90061DE5CCBDB263A36E3FCBA421C06E201A6ED4186CA3DAF27E43447193BBB45233A6EAF09C38B9017D89C40C0BFB4269D&v=3
 
-#EXTINF:-1 tvg-id="MBCdrama.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC Drama
+#EXTINF:-1 tvg-id="MBCdrama.kr" tvg-logo="https://blog.kakaocdn.net/dn/Z35OK/btqDOjBoLo8/jEcJTBPx83AYEFPaO72e50/img.jpg" group-title="General",MBC Drama
 https://m-dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=66C1481C93DC3EC48B44E5A63311E846956D38E5310182F33590D3a9E6C73EA6C0aC03973DB2AE4A10E134E1D9b9A1642E2C420A0CDC6F317AEA4B514347838D4E077F559B354602459B9C48ABFC9C871C650805EEDFA65E014D156594DADBC929320C0F7F45D099C340F2DAD53D612816195681782E1FF164B9E3F01BD6558A&v=3
 
 #EXTINF:-1 tvg-id="MBCm.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC M
