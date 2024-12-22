@@ -6,13 +6,13 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1766225642&Policy=eyJTdGF0ZW1lbnQ
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1766225642&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQ4NjI3MTl9fX1dfQ__&Signature=QsuEHWdECc6hi7Q-IAOn1NJSVDl27wTakWfff2rd9hAV5Wq85FvQOhbP6-1g6lyJwfArlxc1SVrysNtQo~p8UVL8LERC2nHz0cCgyw3X2u-s1x58V6pZ2syR33g6ArDialuqSzmTPWCdHQn0PFYzITczRvEhZ7pyi-3AMq7jDODdv11mAnsgNRvOWSSLzBP1MmHVPo9IAXuxKfjj~JPdcF-uEjBjv2Xcch3URW~TpMlLnDkTwvsOOqbDlk1EuMz-QpKf0PqBxe4GnBNtL3KVeFcTZVlnPOFivyfUsyO5XXy0Vo-3HFzxkr2mdMdSiQ7zhWxHE5muJS9PN~-urY1TMA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="General",MBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1_B862A42B.m3u8
+https://m-ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6ED1051EC3E83D242F47E55A3501A444C55A3215980132B136D01Aa396B23CD60Ba003E837525B49B0D73761A0b311677DF7F0DC6A7D51334ECCCE0439C79BEA0765BA821A2E8D85BB33E90EE8C036B9817751742259628493806EC8FD12FE5D4BE85FFD83839D16A35FE05F434B89AF5E5C4FA2800120AA136D1F340B828A1C&v=3
 
 #EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png" group-title="General",SBS
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_2_76142D8F.m3u8
+https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzQ4NTg0MDUsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1YTAzODRhNi00M2RhLTQ0ODAtYjA1ZS1mN2E2MWZmZjllMTYiLCJpYXQiOjE3MzQ4NTgyMjV9.UnIHSYxFtuE8bM4AvOzlroTGx5sVTxFMQrSNmDBmJVs&solsessionid=b003d33aa2963f2c0e4aab5ce2fed7db
 
 #EXTINF:-1 tvg-id="JTBC" tvg-logo="https://nstatic.jtbc.co.kr/inc/images/ci.png" group-title="General",JTBC
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_51_5D021B6D.m3u8
+https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDkwMzIyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=FFEG6G1QnpAxHrTGVRv4NEs8VXYgFD11I-Y9NxzUeTEy-u0f9jBPWsZd4TZ1AlHp7F4e7wNvEx0C3nhjcNXSTdqrS1BNa8csoNDAEfpqIEJ1BJzjAfvwlv2hyQYLly7v7FSebEYbezuhtnSwwFQBd8kJbMirnW83w8EIugHFTUg_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
 
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Entertainment",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
@@ -37,6 +37,9 @@ https://m-dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.
 
 #EXTINF:-1 tvg-id="MBCm.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC M
 https://m-mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=68F1851923DE33543F45F56233E15945B5A937A59308526C3BF0B5aA46B335763DaF03293082204A002B3991A1bE21BF500D272EEE0F48A48C2E4F0CBFA8B1103A1F3B6E7FBFF01225AF45F7D5F7BBB96B98988B70C15ECC6BFBC910C60E1A4F18F6A5911B1E13D8D94CAC8356FCE6FF&v=3
+
+#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png" group-title="General",SBS FunE
+https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzQ4NTk2NjIsInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI2YTgyYzFjZC0xNTVmLTRiMzctYTNiNS04MTY1OWE2NTE4MDYiLCJpYXQiOjE3MzQ4NTk0ODJ9.RP4zxbH5L-D-so7E89Es2-I_KWjR4dDZM3pQ8MAhbc4&solsessionid=dc2a40ecf4c5981b645d41c898bef081
 
 #EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
 https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
