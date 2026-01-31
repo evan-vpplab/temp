@@ -1,102 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://static.kbs.co.kr/contents/20241119135609/resources/vod/img/ch/img-kbs1-logo.png" group-title="General;News",KBS1
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1736672086&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzY2NzIwODZ9fX1dfQ__&Signature=dObnDzmpESSYLnwqABEANDXorr4X2G9y18XusnJAOrZZkSSivZrFwdlPSP1gNioWysSsstQwhklinYsTjmEjhWyXTpz~zUWb~cyUZXev2Eomsy5ek7fa~LOJviKe7uXpKLq9OyL8JVD2hPtf6IJfY7FeziTLU6fvwkP-90azj42a3FKQtImFEd5SWMMg4gO3VkhGAfo2MK02eSm97~gXun3ANfHfLPOnRy7DYmw3VWTCkwtbJuCYV73BrQs8sO0UlHVQEPsEf4hDQBwE1SmTe6WzPIOOYKPmJm6eugQ-tJJEnGDGx7AD01gozAeR7oYSOpkxhak4CIj3m0FuU2L37w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://static.kbs.co.kr/contents/20241119135609/resources/vod/img/ch/img-kbs2-logo.png" group-title="General;News",KBS2
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1736672147&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzY2NzIxNDd9fX1dfQ__&Signature=I5Gs4FQOPh4ZhCLBnLBkKifXbvTqNKSQfmAUYQ6cx-D~YWN1Fpwui8eWrPkSsdcaSP5aNpHpLiklhY8bA81lG1eEqD4CDJjhy5xFj75bI2fxIevrCdcFRAU0lRT~V-Lqi4QuJ4I5oI~ZoEr3mXlhpDHHsJfU2lh19pVH8jzTs3CrQ97nO7UiaelvmM2ZibtkeRRsaprzYYlOktGeYEdU9Vv6WZrQXrjUk0lQQ0uWrMXCRs4Yur71fuYRtwTvwY6pypVrBTiomw4cKaBzZA9qktNSXtNMJ-6tb20--pJYcgL~2GPDpW4-05zoLVYydnR~fULvuVBEU0n7G1uNrsgIOQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="General",MBC
-https://m-ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6E81BF1BD3AA3974284155E631E1E84665473485DA08621735B049a9B68A303611a5A3D13702E54D50B739C137b0116B539BC3F41E759ECA28EC5E333B1D4AF9531A4D2CDDD6A9FD599240C7CD27E573F282155A2A9A74F97EEA7B2349697DCBBCB3813D018D720EA85DB2149AC8858035EFA8EF4D5E68F7E0E410C1968B8547&v=3
-
-#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png" group-title="General",SBS
-https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzU4OTU5MDQsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1MDEzODYyYi0wODU2LTQwZjYtYmRlYy00YTZjZmRhMGVjMzciLCJpYXQiOjE3MzU4OTU3MjR9.6NksreRWrNvxtkpF1664TRLs4Ph70c3BrCIyNauFfDE&solsessionid=63b304b0bc1dfef9a635675e04d4aeda
-
-#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://nstatic.jtbc.co.kr/inc/images/ci.png" group-title="General",JTBC
-https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNjU0MjgwMX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=aGdo2aL2MdzO-7~Ta0zXOAUIC39M0uxUqm~5J3rnx9ntA1SPPeoY~yzA691vXlKreIHQKkn8dcq-w6eHmwYqnBMz4ccOUxvN6JE2kXd4L1NmtM-pX0b61kaOSUwJGbWB1mH94nXD6UXto4DqxulgRLOxprN-gMqA~hr90czzzaQ_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
-
-#EXTINF:-1 tvg-id="MBCevery1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/MBC_Every_1_logo.png" group-title="General",MBC every1
-https://m-every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=64F1ED13339D33040B44859C35011A44B57F3B851E0642903DB0A6a926A13E061Ca0D30E35B21843B0A63DA1E9b281A106E4629A275A289C66C1D50D7F9A766F87F561C233F04A131E7BAD19B01176EBDBA768FB132A1C1517FD95FD27F930531AA5F93CDAF60BEFA661BF11F826C4939C9C8B2E351CE1E25B96222CF6A512BE&v=3
-
-#EXTINF:-1 tvg-id="MBCdrama.kr" tvg-logo="https://blog.kakaocdn.net/dn/Z35OK/btqDOjBoLo8/jEcJTBPx83AYEFPaO72e50/img.jpg" group-title="General",MBC Drama
-https://m-dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6D21BE1613813D34A04B350D3131BB4AA53438358E0342CE30705Aa1F605307679a1B3FB35D2484620A2356147b0C1B281C804F9BD93751F68D6C73F95A7D9A418F8E920325A3E9567BF5A439513BA44BB8ADD20C789100A4E1867E91A229CCD73937D4C0B11D0E8A7444D2CE00BF0D4106CE120B873BC7B846D18B8FB5C69CC&v=3
-
-#EXTINF:-1 tvg-id="MBCm.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC M
-https://m-mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=62D10A1CA35133E4B644753339810545E52430458A0702A533A0F5a05662353699a3134A3582C54810583EF1C7bA61D6422D7E4ADDAC2220A5BB11AEFF9C0FFE5C111AAD288326033A5B543FDAF1563835B1CF0FDF283BC0B2D6D631EF079AF5ECB49A85FE615B2F331EAA7A32F3DA19&v=3
-
-#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Entertainment",KBS Drama (480p)
-http://mytv.dothome.co.kr/ch/catv/2.php
-
-#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Entertainment",KBS Joy (480p)
-http://mytv.dothome.co.kr/ch/catv/3.php
-
-#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS Kids (480p)
-http://mytv.dothome.co.kr/ch/catv/6.php
-
-#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Lifestyle",KBS Life (480p)
-http://mytv.dothome.co.kr/ch/catv/5.php
-
-#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Entertainment",KBS Story (480p)
-http://mytv.dothome.co.kr/ch/catv/4.php
-
-#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://image.sbs.co.kr/sbs/common/sbs_sns_bnr_640x360.png" group-title="General",SBS FunE
-https://tvlive.sbs.co.kr/sbsetvpc/sbsetv1.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzU4OTU5NDksInBhdGgiOiIvc2JzZXR2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiJiMWJlMjI3Ni1hZTgwLTQ0YTQtYjEwNi1iOTlkNTJlYmIwYjkiLCJpYXQiOjE3MzU4OTU3Njl9.laWmyxCj0fyz72pGByuppcnSf0Cf-w9EnR2OIlN3bNw&solsessionid=1eaf83f04ceafebfc5474492c8dd72bc
-
-#EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
-https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="General",YTN (1080p)
-https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
-
-#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Education",EBS 1 (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2 (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS+ 1 (400p)
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2 (400p)
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MBCNet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net (480p) [Geo-blocked]
-http://mytv.dothome.co.kr/ch/catv/28.php
-
-#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS Seoul (720p)
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="General",Yonhap News TV (1080p)
-https://ythls.armelin.one/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
-
-#EXTINF:-1 tvg-id="worldHistory.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="General",벌거벗은 세계사
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_1317_8B39AE7B.m3u8
-
-#EXTINF:-1 tvg-id="theDay.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="General",역사저널 그날
-https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod8.m3u8?Expires=1734500481&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDgubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNDUwMDQ4MX19fV19&Signature=jxJmvqETJrYG7U3PEKxeinsAZea8mAenheW80oUFsD~vMaiDaKJMxGNZ1i1evRlZTcZy750UAyvQCSJPRoQGms5AKArB-kjTy1ZYnIp5kpNqUwC8f4j~bvZv~5HDIJVj7S3TCLJ6-IrG9YenPfsWDCrFejPffK03gnv9IjgIyRjbUfE0gakyph~7cW1l8Qk1Sl1uzh25q1PrWNSjw8MLY2jHxqgn5D7JnE79GIup4C86kvRkdp8jaQyLCwMVhXTR6T9xKDLM8t3SSrpGPk0D2QEUAZE3i4K4WVmzib1PXWk9Yk6ol1GJR43Co-acp4EbD92MuwWw5cjXNMgpKhx5Fw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzAwMzAwODZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=WqsCQ1kQvFPUwvJv5aeJRcdLbXEZz9viRQhYTirxr3pjG9pUn7kIBIXV0Mlqhu7va7SgIic6XIgrxEPb3epUulImCMzta~wQbQ9WV7vBVCksoCMsQDqVpmhZfNmxvK4DMJcE~7YskkgozzoRn3f6sEWNqqW8HjexNseKXTtL4fGHE~rVi7YjXMY8KGWuXVit2QfMIFjX5jUO29Arz5lYTrNlM-WKbCFD1mNRCj2ZO1C31lVnNDYtpTn75Km8kWp1D1vG6M0TfwkZDD4JVfXgo0ESCMk5VAH4FENKwHkCq8~b67y777v9Hd~V6U42DeDvHR1Y6-vBtvispqDfSzz-OQ__
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Entertainment",KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NzAwMzAxMjZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=dmTAIiXSczjLuIv6F1KLxTUR0mp1SKcCIIz1wytKeK1ImMdRxvvBoHPHcPUNMYdxspSlndRMFGugGwUiIxuhwsMf6JaZCGc7Ro-u3huWzAe8ftK4i8YCVXk-na5HrUjgXvSMb0Aty~R63j9Zzm5N94Bio0DJhvdwPSzFUwLwNP1xXDihkGcznuXxlwc1f0ZEykMKOlnTc1nPvGRXygFv6YtZko8vR0DESvvHrEA-8d1RrvgaKpKUyk-SBSEy4j0CKx11QvFX2ro-XKUIlRHl0TKz1KYaDBjm3ZsewyPTq-yUrdPobPR0WcluGORx7eQY5pp0MNr79ybHo5yRkSsyug__
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MBC_logo.svg/512px-MBC_logo.svg.png" group-title="General",MBC
+https://ottlivepresd.imbc.com/ottlive_pre_sd/_definst_/preview_sd.stream/playlist.m3u8?_lsu_sa_=63B1701F03963524E648657C30E1614675F830D5F809C24833A02Fa146A939260Ca6D3773FD2BB44E08731818AbF91369212E953A8E6A870DB1B3ED7AD4D75B1C1F3A578430D4738373788A2727107AE5BB34F93C58AFC827294525D0A6DC16421E8C6D13B6A5FDF9064354CB9A6142330686ECDF39232C14FAF028BE3A1E3D2&v=3
+#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/SBS_logo.svg/512px-SBS_logo.svg.png" group-title="General",SBS
+https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_2_76142D8F.m3u8
+#EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/JTBC_logo.svg/512px-JTBC_logo.svg.png" group-title="General",JTBC
+https://jtbclive-cdn.jtbc.co.kr/pcweb/newpcweb.stream/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vanRiY2xpdmUtY2RuLmp0YmMuY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2OTkwMDU2Mn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=S8wiYRdl0HXi6azxcQIkrin09o-SN-vG8HcZ5Kn2c7jMR1SNU7~Wu7QV6UsGKSvoFzPmgOTiMDttznhqqCUWVt8G~NPTagOqFEGLEYTsktCP8F5MilX71Ru0orfo9hZx~tBKS~HL-VRb6nSaY015aKnjImyOl1N1WXvlXa5L3KA_&Key-Pair-Id=pub_jtbclive-cdn.jtbc.co.kr
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",ABN TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-
+#EXTINF:-1 tvg-id="BBSTV.kr" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Religious",BBS Buddhist Broadcasting (1080p)
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",BTN TV (1080p)
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",CJ OnStyle Plus (540p)
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Education",EBS 1 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2 (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS+ 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="FGTV.kr" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="Religious",FGTV (720p)
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",Gongyoung Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodTV.kr" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="Religious",GoodTV (1080p)
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="Shop",GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",GugakTV 국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",Home & Shopping (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="Shop",Hyundai Home Shopping (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",Hyundai Home Shopping Plus (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="Undefined",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative;News",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAWDTV.kr" tvg-logo="https://i.imgur.com/vYXAkgy.png" group-title="General",MBC Andong (안동 MBC) (360p) [Not 24/7]
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="General",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCTDTV.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",MBC Daegu (대구 MBC) (480p) [Not 24/7]
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HLCNDTV.kr" tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="General",MBC Gwangju (광주 MBC) (1080p) [Geo-blocked] [Not 24/7]
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="General",MBC Jeju (제주 MBC) (352p) [Not 24/7]
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS JIBS (제주) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="HLCXDTV.kr" tvg-logo="https://i.imgur.com/3C57SwN.png" group-title="General",MBC Jeonju (450p)
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",MBC Mokpo (목포 MBC) (720p) [Not 24/7]
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLATDTV.kr" tvg-logo="https://i.imgur.com/3VSuYsn.png" group-title="General",MBC Yeosu (여수 MBC) (1080p) [Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Education",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="Undefined",NHTV (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Undefined",OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="RUTCTV.kr" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="Religious",RUTC TV (720p)
+http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS CJB (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",SBS G1 (360p) [Not 24/7]
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="General",SBS JIBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
-
-#EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="General",SBS TJB (대전) (1080p) [Not 24/7]
-http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="HLDQDTV.kr" tvg-logo="https://i.imgur.com/byss0Ld.png" group-title="General",SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDGDTV.kr" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS KNN (1080p) [Not 24/7]
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="HLDEDTV.kr" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="General",SBS TBC (540p) [Geo-blocked] [Not 24/7]
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae Shopping TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",Shopping NT (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS Seoul (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-id="WShopping.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="Undefined",YTN DMB (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC38IlqMxZ_YtFg3eSGmmJnQ.m3u8
